@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+  display: flex;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.349);
+}
