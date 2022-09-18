@@ -1,8 +1,8 @@
 {
   "name": "react-multi-page-website",
   "version": "0.1.1",
-  "private": true,
-  "homepage": "https://kramal.github.io/test-game/",
+  "private": false,
+  "homepage": "https://kramal.github.io/soccer_game_deploy_test",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
